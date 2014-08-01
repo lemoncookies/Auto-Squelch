@@ -1,0 +1,16 @@
+this is a simple script designed for 1920x1080
+you can be full screened or windowed
+
+-------
+Triggers with Middle mouse (M3)
+-------
+What the script does:
+Moves the mouse to the enemy portrait, right clicks, then left clicks on squelch box, 
+then moves the cursor down 0,500 pixels.
+-------------
+
+If you want to change the trigger button, edit the autosquelch.ahk file in notepad
+look for line 6 Middlemouse::
+change "Middlemouse" to whichever keybind you want
+
+link to AHK's keylist: http://www.autohotkey.com/docs/KeyList.htm
