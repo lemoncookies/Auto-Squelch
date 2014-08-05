@@ -1,3 +1,6 @@
+Requires AHK (Auto hot key)
+
+
 this is a simple script designed for 1920x1080
 you can be full screened or windowed
 
